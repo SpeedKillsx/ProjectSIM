@@ -1,0 +1,2 @@
+C++
+$(SolutionDir)Dependencies\GLAD\include
